@@ -1,0 +1,168 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\StudioSpace\MobilePlayer-5\app\src\main\AndroidManifest.xml:2:1-92:12
+	package
+		ADDED from D:\StudioSpace\MobilePlayer-5\app\src\main\AndroidManifest.xml:3:5-39
+		INJECTED from D:\StudioSpace\MobilePlayer-5\app\src\main\AndroidManifest.xml
+		INJECTED from D:\StudioSpace\MobilePlayer-5\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\StudioSpace\MobilePlayer-5\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from D:\StudioSpace\MobilePlayer-5\app\src\main\AndroidManifest.xml
+		INJECTED from D:\StudioSpace\MobilePlayer-5\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from D:\StudioSpace\MobilePlayer-5\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from D:\StudioSpace\MobilePlayer-5\app\src\main\AndroidManifest.xml
+		INJECTED from D:\StudioSpace\MobilePlayer-5\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\StudioSpace\MobilePlayer-5\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from D:\StudioSpace\MobilePlayer-5\app\src\main\AndroidManifest.xml:7:5-44
+	android:targetSdkVersion
+		INJECTED from D:\StudioSpace\MobilePlayer-5\app\src\main\AndroidManifest.xml
+		INJECTED from D:\StudioSpace\MobilePlayer-5\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\StudioSpace\MobilePlayer-5\app\src\main\AndroidManifest.xml:7:15-41
+		INJECTED from D:\StudioSpace\MobilePlayer-5\app\src\main\AndroidManifest.xml
+		INJECTED from D:\StudioSpace\MobilePlayer-5\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from D:\StudioSpace\MobilePlayer-5\app\src\main\AndroidManifest.xml:9:5-67
+	android:name
+		ADDED from D:\StudioSpace\MobilePlayer-5\app\src\main\AndroidManifest.xml:9:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\StudioSpace\MobilePlayer-5\app\src\main\AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from D:\StudioSpace\MobilePlayer-5\app\src\main\AndroidManifest.xml:10:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\StudioSpace\MobilePlayer-5\app\src\main\AndroidManifest.xml:11:5-80
+	android:name
+		ADDED from D:\StudioSpace\MobilePlayer-5\app\src\main\AndroidManifest.xml:11:22-77
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from D:\StudioSpace\MobilePlayer-5\app\src\main\AndroidManifest.xml:12:5-84
+	android:name
+		ADDED from D:\StudioSpace\MobilePlayer-5\app\src\main\AndroidManifest.xml:12:22-81
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from D:\StudioSpace\MobilePlayer-5\app\src\main\AndroidManifest.xml:14:5-75
+	android:name
+		ADDED from D:\StudioSpace\MobilePlayer-5\app\src\main\AndroidManifest.xml:14:22-72
+application
+ADDED from D:\StudioSpace\MobilePlayer-5\app\src\main\AndroidManifest.xml:16:5-90:19
+	android:label
+		ADDED from D:\StudioSpace\MobilePlayer-5\app\src\main\AndroidManifest.xml:19:9-41
+	android:allowBackup
+		ADDED from D:\StudioSpace\MobilePlayer-5\app\src\main\AndroidManifest.xml:17:9-35
+	android:icon
+		ADDED from D:\StudioSpace\MobilePlayer-5\app\src\main\AndroidManifest.xml:18:9-45
+	android:theme
+		ADDED from D:\StudioSpace\MobilePlayer-5\app\src\main\AndroidManifest.xml:20:9-40
+activity#com.example.mobileplayer.SplshActivity
+ADDED from D:\StudioSpace\MobilePlayer-5\app\src\main\AndroidManifest.xml:21:9-30:20
+	android:label
+		ADDED from D:\StudioSpace\MobilePlayer-5\app\src\main\AndroidManifest.xml:23:13-45
+	android:theme
+		ADDED from D:\StudioSpace\MobilePlayer-5\app\src\main\AndroidManifest.xml:24:13-66
+	android:name
+		ADDED from D:\StudioSpace\MobilePlayer-5\app\src\main\AndroidManifest.xml:22:13-42
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\StudioSpace\MobilePlayer-5\app\src\main\AndroidManifest.xml:25:13-29:29
+action#android.intent.action.MAIN
+ADDED from D:\StudioSpace\MobilePlayer-5\app\src\main\AndroidManifest.xml:26:17-69
+	android:name
+		ADDED from D:\StudioSpace\MobilePlayer-5\app\src\main\AndroidManifest.xml:26:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\StudioSpace\MobilePlayer-5\app\src\main\AndroidManifest.xml:28:17-77
+	android:name
+		ADDED from D:\StudioSpace\MobilePlayer-5\app\src\main\AndroidManifest.xml:28:27-74
+activity#com.example.mobileplayer.MainActivity
+ADDED from D:\StudioSpace\MobilePlayer-5\app\src\main\AndroidManifest.xml:31:9-33:61
+	android:screenOrientation
+		ADDED from D:\StudioSpace\MobilePlayer-5\app\src\main\AndroidManifest.xml:33:13-49
+	android:name
+		ADDED from D:\StudioSpace\MobilePlayer-5\app\src\main\AndroidManifest.xml:32:13-41
+activity#com.example.mobileplayer.video.VideoListActivity
+ADDED from D:\StudioSpace\MobilePlayer-5\app\src\main\AndroidManifest.xml:34:9-70
+	android:name
+		ADDED from D:\StudioSpace\MobilePlayer-5\app\src\main\AndroidManifest.xml:34:19-58
+activity#com.example.mobileplayer.video.VideoPlayerActivity
+ADDED from D:\StudioSpace\MobilePlayer-5\app\src\main\AndroidManifest.xml:35:9-68:20
+	android:screenOrientation
+		ADDED from D:\StudioSpace\MobilePlayer-5\app\src\main\AndroidManifest.xml:37:13-50
+	android:theme
+		ADDED from D:\StudioSpace\MobilePlayer-5\app\src\main\AndroidManifest.xml:38:13-77
+	android:name
+		ADDED from D:\StudioSpace\MobilePlayer-5\app\src\main\AndroidManifest.xml:36:13-54
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from D:\StudioSpace\MobilePlayer-5\app\src\main\AndroidManifest.xml:39:13-46:29
+action#android.intent.action.VIEW
+ADDED from D:\StudioSpace\MobilePlayer-5\app\src\main\AndroidManifest.xml:40:17-69
+	android:name
+		ADDED from D:\StudioSpace\MobilePlayer-5\app\src\main\AndroidManifest.xml:40:25-66
+category#android.intent.category.DEFAULT
+ADDED from D:\StudioSpace\MobilePlayer-5\app\src\main\AndroidManifest.xml:42:17-76
+	android:name
+		ADDED from D:\StudioSpace\MobilePlayer-5\app\src\main\AndroidManifest.xml:42:27-73
+category#android.intent.category.BROWSABLE
+ADDED from D:\StudioSpace\MobilePlayer-5\app\src\main\AndroidManifest.xml:43:17-78
+	android:name
+		ADDED from D:\StudioSpace\MobilePlayer-5\app\src\main\AndroidManifest.xml:43:27-75
+data
+ADDED from D:\StudioSpace\MobilePlayer-5\app\src\main\AndroidManifest.xml:45:17-47
+	android:scheme
+		ADDED from D:\StudioSpace\MobilePlayer-5\app\src\main\AndroidManifest.xml:45:23-44
+intent-filter#android.intent.action.VIEW+android.intent.category.DEFAULT
+ADDED from D:\StudioSpace\MobilePlayer-5\app\src\main\AndroidManifest.xml:47:13-54:29
+activity#com.example.mobileplayer.network.NetworkVideoActivity
+ADDED from D:\StudioSpace\MobilePlayer-5\app\src\main\AndroidManifest.xml:69:9-66
+	android:name
+		ADDED from D:\StudioSpace\MobilePlayer-5\app\src\main\AndroidManifest.xml:69:19-63
+activity#com.example.mobileplayer.video.VitamioListActivity
+ADDED from D:\StudioSpace\MobilePlayer-5\app\src\main\AndroidManifest.xml:70:9-63
+	android:name
+		ADDED from D:\StudioSpace\MobilePlayer-5\app\src\main\AndroidManifest.xml:70:19-60
+activity#com.example.mobileplayer.help.HelpUserActivity
+ADDED from D:\StudioSpace\MobilePlayer-5\app\src\main\AndroidManifest.xml:71:9-59
+	android:name
+		ADDED from D:\StudioSpace\MobilePlayer-5\app\src\main\AndroidManifest.xml:71:19-56
+activity#com.example.mobileplayer.audio.AudioListActivity
+ADDED from D:\StudioSpace\MobilePlayer-5\app\src\main\AndroidManifest.xml:72:9-74:116
+	android:configChanges
+		ADDED from D:\StudioSpace\MobilePlayer-5\app\src\main\AndroidManifest.xml:74:13-113
+	android:name
+		ADDED from D:\StudioSpace\MobilePlayer-5\app\src\main\AndroidManifest.xml:73:13-52
+service#com.example.mobileplayer.audio.MediaService
+ADDED from D:\StudioSpace\MobilePlayer-5\app\src\main\AndroidManifest.xml:76:9-55
+	android:name
+		ADDED from D:\StudioSpace\MobilePlayer-5\app\src\main\AndroidManifest.xml:76:18-52
+activity#com.example.mobileplayer.audio.AudioPlayerActivity
+ADDED from D:\StudioSpace\MobilePlayer-5\app\src\main\AndroidManifest.xml:78:9-81:52
+	android:screenOrientation
+		ADDED from D:\StudioSpace\MobilePlayer-5\app\src\main\AndroidManifest.xml:81:13-49
+	android:configChanges
+		ADDED from D:\StudioSpace\MobilePlayer-5\app\src\main\AndroidManifest.xml:80:13-113
+	android:name
+		ADDED from D:\StudioSpace\MobilePlayer-5\app\src\main\AndroidManifest.xml:79:13-54
+activity#com.example.mobileplayer.network.NetWorkAudioActivity
+ADDED from D:\StudioSpace\MobilePlayer-5\app\src\main\AndroidManifest.xml:82:9-66
+	android:name
+		ADDED from D:\StudioSpace\MobilePlayer-5\app\src\main\AndroidManifest.xml:82:19-63
+activity#com.example.mobileplayer.help.HelpUserAudioActivity
+ADDED from D:\StudioSpace\MobilePlayer-5\app\src\main\AndroidManifest.xml:83:9-64
+	android:name
+		ADDED from D:\StudioSpace\MobilePlayer-5\app\src\main\AndroidManifest.xml:83:19-61
+activity#com.example.mobileplayer.help.ChooseHelpActivity
+ADDED from D:\StudioSpace\MobilePlayer-5\app\src\main\AndroidManifest.xml:84:9-61
+	android:name
+		ADDED from D:\StudioSpace\MobilePlayer-5\app\src\main\AndroidManifest.xml:84:19-58
+activity#com.example.mobileplayer.help.HelpUserSoftware
+ADDED from D:\StudioSpace\MobilePlayer-5\app\src\main\AndroidManifest.xml:85:9-59
+	android:name
+		ADDED from D:\StudioSpace\MobilePlayer-5\app\src\main\AndroidManifest.xml:85:19-56
+activity#com.example.mobileplayer.network.WebView_Net
+ADDED from D:\StudioSpace\MobilePlayer-5\app\src\main\AndroidManifest.xml:86:9-88:50
+	android:hardwareAccelerated
+		ADDED from D:\StudioSpace\MobilePlayer-5\app\src\main\AndroidManifest.xml:88:13-47
+	android:name
+		ADDED from D:\StudioSpace\MobilePlayer-5\app\src\main\AndroidManifest.xml:87:13-48
+activity#com.example.mobileplayer.gamearder.GameList
+ADDED from D:\StudioSpace\MobilePlayer-5\app\src\main\AndroidManifest.xml:89:9-65
+	android:name
+		ADDED from D:\StudioSpace\MobilePlayer-5\app\src\main\AndroidManifest.xml:89:19-53

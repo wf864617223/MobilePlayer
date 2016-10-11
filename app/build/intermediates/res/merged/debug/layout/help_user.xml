@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+
+        <ScrollView
+            android:id="@+id/scrollView1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical" >
+                <TextView 
+		            android:text=" 01.视频播放时手指上下划可以调节音量"
+		            android:textColor="#ffffff"
+		            android:layout_marginLeft="20dp"
+		            android:layout_marginRight="20dp"
+		            android:layout_marginTop="20dp"
+		            android:layout_width="match_parent"
+		            android:layout_height="wrap_content"/>
+		        <ImageView 
+		            android:src="@drawable/png_voice"
+		            android:layout_marginTop="5dp"
+		            android:layout_width="match_parent"
+		            android:layout_height="wrap_content"/>
+				<TextView 
+		            android:text=" 02.视频播放时点击这里可以立即使视频静音"
+		            android:textColor="#ffffff"
+		            android:layout_marginLeft="20dp"
+		            android:layout_marginRight="20dp"
+		            android:layout_marginTop="20dp"
+		            android:layout_width="match_parent"
+		            android:layout_height="wrap_content"/>
+				<ImageView 
+				    android:src="@drawable/png_voice_mute"
+				    android:layout_marginTop="5dp"
+		            android:layout_width="match_parent"
+		            android:layout_height="wrap_content"/>
+				<TextView 
+		            android:text=" 03.视频播放时手指点这里划可以调节全屏"
+		            android:textColor="#ffffff"
+		            android:layout_marginLeft="20dp"
+		            android:layout_marginRight="20dp"
+		            android:layout_marginTop="20dp"
+		            android:layout_width="match_parent"
+		            android:layout_height="wrap_content"/>
+				<ImageView 
+				    android:src="@drawable/png_voice_max"
+				    android:layout_marginTop="5dp"
+		            android:layout_width="match_parent"
+		            android:layout_height="wrap_content"/>
+				<TextView 
+		            android:text=" 04.视频播放时点击这里可以退出播放器"
+		            android:textColor="#ffffff"
+		            android:layout_marginLeft="20dp"
+		            android:layout_marginRight="20dp"
+		            android:layout_marginTop="20dp"
+		            android:layout_width="match_parent"
+		            android:layout_height="wrap_content"/>
+				<ImageView 
+				    android:src="@drawable/png_videoo_finish"
+				    android:layout_marginTop="5dp"
+		            android:layout_width="match_parent"
+		            android:layout_height="wrap_content"/>
+				<TextView 
+		            android:text=" 05.视频播放时点击这里可以切换上下曲"
+		            android:textColor="#ffffff"
+		            android:layout_marginLeft="20dp"
+		            android:layout_marginRight="20dp"
+		            android:layout_marginTop="20dp"
+		            android:layout_width="match_parent"
+		            android:layout_height="wrap_content"/>
+				<ImageView 
+				    android:src="@drawable/png_video_prenext"
+				    android:layout_marginTop="5dp"
+		            android:layout_width="match_parent"
+		            android:layout_height="wrap_content"/>
+				<TextView 
+		            android:text=" 06.视频播放时点击这里可以使音量达到系统最大声音"
+		            android:textColor="#ffffff"
+		            android:layout_marginLeft="20dp"
+		            android:layout_marginRight="20dp"
+		            android:layout_marginTop="20dp"
+		            android:layout_width="match_parent"
+		            android:layout_height="wrap_content"/>
+				<ImageView 
+				    android:src="@drawable/png_maxvoice"
+				    android:layout_marginTop="5dp"
+		            android:layout_width="match_parent"
+		            android:layout_height="wrap_content"/>
+				<TextView 
+		            android:text=" 07.视频播放时左右滑动可以调节播放进度"
+		            android:textColor="#ffffff"
+		            android:layout_marginLeft="20dp"
+		            android:layout_marginRight="20dp"
+		            android:layout_marginTop="20dp"
+		            android:layout_width="match_parent"
+		            android:layout_height="wrap_content"/>
+				<ImageView 
+				    android:src="@drawable/png_slow_fast"
+				    android:layout_marginTop="5dp"
+		            android:layout_width="match_parent"
+		            android:layout_height="wrap_content"/>
+            </LinearLayout>
+        </ScrollView>
+
+
+</RelativeLayout>

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\StudioSpace\\MobilePlayer-5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "D:\\StudioSpace\\MobilePlayer-5\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\StudioSpace\\MobilePlayer-5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\background2.jpg",
+        "source": "D:\\StudioSpace\\MobilePlayer-5\\app\\src\\main\\res\\drawable-mdpi\\background2.jpg"
+    },
+    {
+        "merged": "D:\\StudioSpace\\MobilePlayer-5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\title.jpg",
+        "source": "D:\\StudioSpace\\MobilePlayer-5\\app\\src\\main\\res\\drawable-mdpi\\title.jpg"
+    }
+]

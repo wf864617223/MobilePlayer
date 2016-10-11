@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">影音播放器</string>
+    <string name="audioduration">音乐时长</string>
+    <string name="audioname">音乐名称</string>
+    <string name="audiosize">音乐大小</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="noaudio">No find music...</string>
+    <string name="novideo">No find video...</string>
+    <string name="videoduration">视屏时长</string>
+    <string name="videoname">视频名称</string>
+    <string name="videosize">视频大小</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>

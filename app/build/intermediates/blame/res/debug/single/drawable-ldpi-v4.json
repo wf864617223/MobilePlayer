@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\StudioSpace\\MobilePlayer-5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\icon_menu_signall.png",
+        "source": "D:\\StudioSpace\\MobilePlayer-5\\app\\src\\main\\res\\drawable-ldpi\\icon_menu_signall.png"
+    },
+    {
+        "merged": "D:\\StudioSpace\\MobilePlayer-5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\title.jpg",
+        "source": "D:\\StudioSpace\\MobilePlayer-5\\app\\src\\main\\res\\drawable-ldpi\\title.jpg"
+    },
+    {
+        "merged": "D:\\StudioSpace\\MobilePlayer-5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\img_single_bg.png",
+        "source": "D:\\StudioSpace\\MobilePlayer-5\\app\\src\\main\\res\\drawable-ldpi\\img_single_bg.png"
+    },
+    {
+        "merged": "D:\\StudioSpace\\MobilePlayer-5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\img_playback_bg.png",
+        "source": "D:\\StudioSpace\\MobilePlayer-5\\app\\src\\main\\res\\drawable-ldpi\\img_playback_bg.png"
+    },
+    {
+        "merged": "D:\\StudioSpace\\MobilePlayer-5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\background2.jpg",
+        "source": "D:\\StudioSpace\\MobilePlayer-5\\app\\src\\main\\res\\drawable-ldpi\\background2.jpg"
+    },
+    {
+        "merged": "D:\\StudioSpace\\MobilePlayer-5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_menu_moreoverflow_normal_holo_light.png",
+        "source": "D:\\StudioSpace\\MobilePlayer-5\\app\\src\\main\\res\\drawable-ldpi\\ic_menu_moreoverflow_normal_holo_light.png"
+    }
+]

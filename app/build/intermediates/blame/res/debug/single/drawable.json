@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "D:\\StudioSpace\\MobilePlayer-5\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_audio_single_mode_selector.xml",
+        "source": "D:\\StudioSpace\\MobilePlayer-5\\app\\src\\main\\res\\drawable\\btn_audio_single_mode_selector.xml"
+    },
+    {
+        "merged": "D:\\StudioSpace\\MobilePlayer-5\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_audio_lyric_selector.xml",
+        "source": "D:\\StudioSpace\\MobilePlayer-5\\app\\src\\main\\res\\drawable\\btn_audio_lyric_selector.xml"
+    },
+    {
+        "merged": "D:\\StudioSpace\\MobilePlayer-5\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\left_button_selector.xml",
+        "source": "D:\\StudioSpace\\MobilePlayer-5\\app\\src\\main\\res\\drawable\\left_button_selector.xml"
+    },
+    {
+        "merged": "D:\\StudioSpace\\MobilePlayer-5\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_audio_normal_mode_selector.xml",
+        "source": "D:\\StudioSpace\\MobilePlayer-5\\app\\src\\main\\res\\drawable\\btn_audio_normal_mode_selector.xml"
+    },
+    {
+        "merged": "D:\\StudioSpace\\MobilePlayer-5\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_default_full_selector.xml",
+        "source": "D:\\StudioSpace\\MobilePlayer-5\\app\\src\\main\\res\\drawable\\btn_default_full_selector.xml"
+    },
+    {
+        "merged": "D:\\StudioSpace\\MobilePlayer-5\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_audio_all_mode_selector.xml",
+        "source": "D:\\StudioSpace\\MobilePlayer-5\\app\\src\\main\\res\\drawable\\btn_audio_all_mode_selector.xml"
+    },
+    {
+        "merged": "D:\\StudioSpace\\MobilePlayer-5\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\animation_list.xml",
+        "source": "D:\\StudioSpace\\MobilePlayer-5\\app\\src\\main\\res\\drawable\\animation_list.xml"
+    },
+    {
+        "merged": "D:\\StudioSpace\\MobilePlayer-5\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_audio_play_selector.xml",
+        "source": "D:\\StudioSpace\\MobilePlayer-5\\app\\src\\main\\res\\drawable\\btn_audio_play_selector.xml"
+    },
+    {
+        "merged": "D:\\StudioSpace\\MobilePlayer-5\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_full_selector.xml",
+        "source": "D:\\StudioSpace\\MobilePlayer-5\\app\\src\\main\\res\\drawable\\btn_full_selector.xml"
+    },
+    {
+        "merged": "D:\\StudioSpace\\MobilePlayer-5\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_audio_pre_selector.xml",
+        "source": "D:\\StudioSpace\\MobilePlayer-5\\app\\src\\main\\res\\drawable\\btn_audio_pre_selector.xml"
+    },
+    {
+        "merged": "D:\\StudioSpace\\MobilePlayer-5\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_next_selector.xml",
+        "source": "D:\\StudioSpace\\MobilePlayer-5\\app\\src\\main\\res\\drawable\\btn_next_selector.xml"
+    },
+    {
+        "merged": "D:\\StudioSpace\\MobilePlayer-5\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\audio_progress_horizontal.xml",
+        "source": "D:\\StudioSpace\\MobilePlayer-5\\app\\src\\main\\res\\drawable\\audio_progress_horizontal.xml"
+    },
+    {
+        "merged": "D:\\StudioSpace\\MobilePlayer-5\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\right_button_selector.xml",
+        "source": "D:\\StudioSpace\\MobilePlayer-5\\app\\src\\main\\res\\drawable\\right_button_selector.xml"
+    },
+    {
+        "merged": "D:\\StudioSpace\\MobilePlayer-5\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_horizontal.xml",
+        "source": "D:\\StudioSpace\\MobilePlayer-5\\app\\src\\main\\res\\drawable\\progress_horizontal.xml"
+    },
+    {
+        "merged": "D:\\StudioSpace\\MobilePlayer-5\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_audio_next_selector.xml",
+        "source": "D:\\StudioSpace\\MobilePlayer-5\\app\\src\\main\\res\\drawable\\btn_audio_next_selector.xml"
+    },
+    {
+        "merged": "D:\\StudioSpace\\MobilePlayer-5\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_pre_selector.xml",
+        "source": "D:\\StudioSpace\\MobilePlayer-5\\app\\src\\main\\res\\drawable\\btn_pre_selector.xml"
+    },
+    {
+        "merged": "D:\\StudioSpace\\MobilePlayer-5\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_audio_pause_selector.xml",
+        "source": "D:\\StudioSpace\\MobilePlayer-5\\app\\src\\main\\res\\drawable\\btn_audio_pause_selector.xml"
+    },
+    {
+        "merged": "D:\\StudioSpace\\MobilePlayer-5\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background.jpg",
+        "source": "D:\\StudioSpace\\MobilePlayer-5\\app\\src\\main\\res\\drawable\\background.jpg"
+    },
+    {
+        "merged": "D:\\StudioSpace\\MobilePlayer-5\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_pause_selector.xml",
+        "source": "D:\\StudioSpace\\MobilePlayer-5\\app\\src\\main\\res\\drawable\\btn_pause_selector.xml"
+    },
+    {
+        "merged": "D:\\StudioSpace\\MobilePlayer-5\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_play_selector.xml",
+        "source": "D:\\StudioSpace\\MobilePlayer-5\\app\\src\\main\\res\\drawable\\btn_play_selector.xml"
+    },
+    {
+        "merged": "D:\\StudioSpace\\MobilePlayer-5\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_exit_selector.xml",
+        "source": "D:\\StudioSpace\\MobilePlayer-5\\app\\src\\main\\res\\drawable\\btn_exit_selector.xml"
+    }
+]

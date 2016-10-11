@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/PlayControlPanel"
+        android:layout_width="fill_parent"
+        android:layout_height="50.0dip"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:background="@drawable/img_playback_bg"
+        android:orientation="horizontal" >
+		<Button 
+		    android:id="@+id/btn_audio_mode"
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:background="@drawable/btn_audio_normal_mode_selector"/>
+		<Button 
+		    android:id="@+id/btn_audio_pre"
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:background="@drawable/btn_audio_pre_selector"/>
+		<Button 
+		    android:id="@+id/btn_audio_play_pause"
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:background="@drawable/btn_audio_pause_selector"/>
+		<Button 
+		    android:id="@+id/btn_audio_next"
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:background="@drawable/btn_audio_next_selector"/>
+		<Button 
+		    android:id="@+id/btn_audio_menu"
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:background="@drawable/btn_audio_lyric_selector"/>
+       
+       
+    </LinearLayout>

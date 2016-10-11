@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+
+        <ScrollView
+            android:id="@+id/scrollView1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical" >
+                <TextView 
+		            android:text=" 01.进入音乐播放界面后，点击任意一个音乐就可以进行播放"
+		            android:textColor="#ffffff"
+		            android:layout_marginLeft="20dp"
+		            android:layout_marginRight="20dp"
+		            android:layout_marginTop="20dp"
+		            android:layout_width="match_parent"
+		            android:layout_height="wrap_content"/>
+		        <ImageView 
+		            android:src="@drawable/png_choose_music"
+		            android:layout_marginTop="5dp"
+		            android:layout_width="match_parent"
+		            android:layout_height="wrap_content"/>
+				<TextView 
+		            android:text=" 02.音乐播放时点击这里可以进行上下曲切换"
+		            android:textColor="#ffffff"
+		            android:layout_marginLeft="20dp"
+		            android:layout_marginRight="20dp"
+		            android:layout_marginTop="20dp"
+		            android:layout_width="match_parent"
+		            android:layout_height="wrap_content"/>
+				<ImageView 
+				    android:src="@drawable/png_audio_next"
+				    android:layout_marginTop="5dp"
+		            android:layout_width="match_parent"
+		            android:layout_height="wrap_content"/>
+				<TextView 
+		            android:text=" 03.音乐播放时点这里进行音乐的播放暂停"
+		            android:textColor="#ffffff"
+		            android:layout_marginLeft="20dp"
+		            android:layout_marginRight="20dp"
+		            android:layout_marginTop="20dp"
+		            android:layout_width="match_parent"
+		            android:layout_height="wrap_content"/>
+				<ImageView 
+				    android:src="@drawable/png_audio_pause"
+				    android:layout_marginTop="5dp"
+		            android:layout_width="match_parent"
+		            android:layout_height="wrap_content"/>
+				<TextView 
+		            android:text=" 04.点击这里可以进入网络音乐页面"
+		            android:textColor="#ffffff"
+		            android:layout_marginLeft="20dp"
+		            android:layout_marginRight="20dp"
+		            android:layout_marginTop="20dp"
+		            android:layout_width="match_parent"
+		            android:layout_height="wrap_content"/>
+				<ImageView 
+				    android:src="@drawable/png_network_audio"
+				    android:layout_marginTop="5dp"
+		            android:layout_width="match_parent"
+		            android:layout_height="wrap_content"/>
+				<TextView 
+		            android:text=" 05.音乐播放时点这里退出音乐界面（音乐不会停止播放）"
+		            android:textColor="#ffffff"
+		            android:layout_marginLeft="20dp"
+		            android:layout_marginRight="20dp"
+		            android:layout_marginTop="20dp"
+		            android:layout_width="match_parent"
+		            android:layout_height="wrap_content"/>
+				<ImageView 
+				    android:src="@drawable/png_exit_audio"
+				    android:layout_marginTop="5dp"
+		            android:layout_width="match_parent"
+		            android:layout_height="wrap_content"/>
+				
+            </LinearLayout>
+        </ScrollView>
+
+
+</RelativeLayout>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/img_single_bg"
+    android:orientation="vertical" >
+    
+
+<include
+        android:id="@+id/audio_bottom"
+        layout="@layout/audio_bottom" />
+
+<ListView
+    android:id="@+id/audio_play_list"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_above="@+id/audio_bottom"
+    android:layout_alignParentLeft="true">
+
+</ListView>
+
+</RelativeLayout>

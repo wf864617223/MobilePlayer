@@ -1,0 +1,296 @@
+[
+    {
+        "outputFile": "D:\\StudioSpace\\MobilePlayer-5\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "D:\\StudioSpace\\MobilePlayer-5\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "D:\\StudioSpace\\MobilePlayer-5\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 52,
+                    "endOffset": 217
+                },
+                "from": {
+                    "file": "D:\\StudioSpace\\MobilePlayer-5\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 102,
+                        "endColumn": 52,
+                        "endOffset": 150
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 222,
+                    "endColumn": 42,
+                    "endOffset": 260
+                },
+                "from": {
+                    "file": "D:\\StudioSpace\\MobilePlayer-5\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 58,
+                        "endColumn": 42,
+                        "endOffset": 96
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 265,
+                    "endColumn": 46,
+                    "endOffset": 307
+                },
+                "from": {
+                    "file": "D:\\StudioSpace\\MobilePlayer-5\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 1,
+                        "startOffset": 472,
+                        "endColumn": 43,
+                        "endOffset": 514
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 312,
+                    "endColumn": 42,
+                    "endOffset": 350
+                },
+                "from": {
+                    "file": "D:\\StudioSpace\\MobilePlayer-5\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 1,
+                        "startOffset": 432,
+                        "endColumn": 39,
+                        "endOffset": 470
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 355,
+                    "endColumn": 42,
+                    "endOffset": 393
+                },
+                "from": {
+                    "file": "D:\\StudioSpace\\MobilePlayer-5\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 1,
+                        "startOffset": 516,
+                        "endColumn": 39,
+                        "endOffset": 554
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 398,
+                    "endColumn": 52,
+                    "endOffset": 446
+                },
+                "from": {
+                    "file": "D:\\StudioSpace\\MobilePlayer-5\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 156,
+                        "endColumn": 52,
+                        "endOffset": 204
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 451,
+                    "endColumn": 52,
+                    "endOffset": 499
+                },
+                "from": {
+                    "file": "D:\\StudioSpace\\MobilePlayer-5\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 1,
+                        "startOffset": 382,
+                        "endColumn": 49,
+                        "endOffset": 430
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 504,
+                    "endColumn": 52,
+                    "endOffset": 552
+                },
+                "from": {
+                    "file": "D:\\StudioSpace\\MobilePlayer-5\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 1,
+                        "startOffset": 207,
+                        "endColumn": 49,
+                        "endOffset": 255
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 557,
+                    "endColumn": 46,
+                    "endOffset": 599
+                },
+                "from": {
+                    "file": "D:\\StudioSpace\\MobilePlayer-5\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 1,
+                        "startOffset": 297,
+                        "endColumn": 43,
+                        "endOffset": 339
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 604,
+                    "endColumn": 42,
+                    "endOffset": 642
+                },
+                "from": {
+                    "file": "D:\\StudioSpace\\MobilePlayer-5\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 1,
+                        "startOffset": 257,
+                        "endColumn": 39,
+                        "endOffset": 295
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 647,
+                    "endColumn": 42,
+                    "endOffset": 685
+                },
+                "from": {
+                    "file": "D:\\StudioSpace\\MobilePlayer-5\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 1,
+                        "startOffset": 341,
+                        "endColumn": 39,
+                        "endOffset": 379
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 690,
+                    "endLine": 21,
+                    "endColumn": 12,
+                    "endOffset": 976
+                },
+                "from": {
+                    "file": "D:\\StudioSpace\\MobilePlayer-5\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 981,
+                    "endLine": 24,
+                    "endColumn": 12,
+                    "endOffset": 1136
+                },
+                "from": {
+                    "file": "D:\\StudioSpace\\MobilePlayer-5\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 522,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 679
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "D:\\StudioSpace\\MobilePlayer-5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\network_item.xml",
+        "source": "D:\\StudioSpace\\MobilePlayer-5\\app\\src\\main\\res\\layout\\network_item.xml"
+    },
+    {
+        "merged": "D:\\StudioSpace\\MobilePlayer-5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\videoplayer_control.xml",
+        "source": "D:\\StudioSpace\\MobilePlayer-5\\app\\src\\main\\res\\layout\\videoplayer_control.xml"
+    },
+    {
+        "merged": "D:\\StudioSpace\\MobilePlayer-5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem.xml",
+        "source": "D:\\StudioSpace\\MobilePlayer-5\\app\\src\\main\\res\\layout\\listitem.xml"
+    },
+    {
+        "merged": "D:\\StudioSpace\\MobilePlayer-5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\help_text.xml",
+        "source": "D:\\StudioSpace\\MobilePlayer-5\\app\\src\\main\\res\\layout\\help_text.xml"
+    },
+    {
+        "merged": "D:\\StudioSpace\\MobilePlayer-5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_audioplayer.xml",
+        "source": "D:\\StudioSpace\\MobilePlayer-5\\app\\src\\main\\res\\layout\\activity_audioplayer.xml"
+    },
+    {
+        "merged": "D:\\StudioSpace\\MobilePlayer-5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\help_user_audio.xml",
+        "source": "D:\\StudioSpace\\MobilePlayer-5\\app\\src\\main\\res\\layout\\help_user_audio.xml"
+    },
+    {
+        "merged": "D:\\StudioSpace\\MobilePlayer-5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_audio_list.xml",
+        "source": "D:\\StudioSpace\\MobilePlayer-5\\app\\src\\main\\res\\layout\\activity_audio_list.xml"
+    },
+    {
+        "merged": "D:\\StudioSpace\\MobilePlayer-5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\audio_bottom.xml",
+        "source": "D:\\StudioSpace\\MobilePlayer-5\\app\\src\\main\\res\\layout\\audio_bottom.xml"
+    },
+    {
+        "merged": "D:\\StudioSpace\\MobilePlayer-5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\choose_help.xml",
+        "source": "D:\\StudioSpace\\MobilePlayer-5\\app\\src\\main\\res\\layout\\choose_help.xml"
+    },
+    {
+        "merged": "D:\\StudioSpace\\MobilePlayer-5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\audio_list_item.xml",
+        "source": "D:\\StudioSpace\\MobilePlayer-5\\app\\src\\main\\res\\layout\\audio_list_item.xml"
+    },
+    {
+        "merged": "D:\\StudioSpace\\MobilePlayer-5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splsh.xml",
+        "source": "D:\\StudioSpace\\MobilePlayer-5\\app\\src\\main\\res\\layout\\activity_splsh.xml"
+    },
+    {
+        "merged": "D:\\StudioSpace\\MobilePlayer-5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\StudioSpace\\MobilePlayer-5\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\StudioSpace\\MobilePlayer-5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\help_user.xml",
+        "source": "D:\\StudioSpace\\MobilePlayer-5\\app\\src\\main\\res\\layout\\help_user.xml"
+    },
+    {
+        "merged": "D:\\StudioSpace\\MobilePlayer-5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_videoplayer.xml",
+        "source": "D:\\StudioSpace\\MobilePlayer-5\\app\\src\\main\\res\\layout\\activity_videoplayer.xml"
+    },
+    {
+        "merged": "D:\\StudioSpace\\MobilePlayer-5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_item.xml",
+        "source": "D:\\StudioSpace\\MobilePlayer-5\\app\\src\\main\\res\\layout\\main_item.xml"
+    },
+    {
+        "merged": "D:\\StudioSpace\\MobilePlayer-5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\video_list_item.xml",
+        "source": "D:\\StudioSpace\\MobilePlayer-5\\app\\src\\main\\res\\layout\\video_list_item.xml"
+    },
+    {
+        "merged": "D:\\StudioSpace\\MobilePlayer-5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\help_software.xml",
+        "source": "D:\\StudioSpace\\MobilePlayer-5\\app\\src\\main\\res\\layout\\help_software.xml"
+    },
+    {
+        "merged": "D:\\StudioSpace\\MobilePlayer-5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\netlink.xml",
+        "source": "D:\\StudioSpace\\MobilePlayer-5\\app\\src\\main\\res\\layout\\netlink.xml"
+    },
+    {
+        "merged": "D:\\StudioSpace\\MobilePlayer-5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_base.xml",
+        "source": "D:\\StudioSpace\\MobilePlayer-5\\app\\src\\main\\res\\layout\\activity_base.xml"
+    },
+    {
+        "merged": "D:\\StudioSpace\\MobilePlayer-5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_video_list.xml",
+        "source": "D:\\StudioSpace\\MobilePlayer-5\\app\\src\\main\\res\\layout\\activity_video_list.xml"
+    },
+    {
+        "merged": "D:\\StudioSpace\\MobilePlayer-5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_game_list.xml",
+        "source": "D:\\StudioSpace\\MobilePlayer-5\\app\\src\\main\\res\\layout\\activity_game_list.xml"
+    }
+]
